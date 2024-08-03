@@ -1,12 +1,12 @@
 ---
 title: Welcome page
 layout: default
+permalink: /:year/:month/:title:output_ext
 ---
 
 {% for post in site.posts %}
-<h2 class="post-title"><a href="{{ post.permalink }}">{{ post.title }}</a> {{ post.date | date: "%e %B %Y" }}</h2>
-{% if post.subtitle %}
-<h3 class="post-subtitle">{{post.subtitle}}</h3>
-{% endif %}
+<span>{{ post.date | date: %W %d %M %Y}}</span>
+<h2 class="post-title"><a href="{{ post.permalink }}">{{ post.title }}{% if post.subtitle %} - {{post.subtitle}}{% endif %}</a> {{ post.date | date: "%e %B %Y" }}</h2>
+
 <p>{{ post.content }}</p>
 {% endfor %}
