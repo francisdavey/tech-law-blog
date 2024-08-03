@@ -61,7 +61,7 @@ Section 28B will apply fairly common-sense provisions to transfers. If you trans
 For example: if you buy a DVD, make a back up, and then sell the DVD second-hand (something you are entitled to do under [section 18(3)](http://www.legislation.gov.uk/ukpga/1988/48/section/18) of the 1988 Act), you must delete that back up copy. If you keep the back up copy it becomes and infringing copy and stops being a "personal copy".
 
 Is lending OK?
-==============
+-------
 
 _But wait_ there is something a little odd here. Section 28B(6) says "Copyright in a work is infringed if an individual transfers a personal copy of the work to another person (otherwise than on a private and temporary basis)...". That appears to suggest that it is OK to transfer a personal copy of the work to another person if it is done on a private and temporary basis.
 
