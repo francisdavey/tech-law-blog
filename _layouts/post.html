@@ -1,7 +1,14 @@
 ---
 layout: default
 ---
+
+<p>Test material:</p>
+<span>{{ post.date}}</span>
+<span>{{ post.title}}</span>
+
 <span class="longdate">{{ post.date | date: %A %d %M %Y }}</span>
 <h2 class="post-title"><a href="{{ post.permalink }}">{{ post.title }}{% if post.subtitle %} - {{ post.subtitle }}{% endif %}</a></h2>
+
+{% if post.susbtitle %} there is a post subtitle {{post.subtitle}}{% endif %}
 
 {{ content }}
