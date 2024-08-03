@@ -3,9 +3,6 @@ title: Welcome page
 layout: default
 ---
 
-This is it!
-
-***
 {% for post in site.posts %}
 <h2 class="post-title"><a href="{{ post.permalink }}">{{ post.title }}</a> {{ post.date | date: "%e %B %Y" }}</h2>
 {% if post.subtitle %}
