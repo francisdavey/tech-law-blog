@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: Private copying
 subtitle: a new copyright exception in the UK
 date: 30 July 2014
