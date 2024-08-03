@@ -33,13 +33,10 @@
         <aside id="sidebar">
           <h2>Latest posts</h2>
           {% for post in site.posts limit:12 %}
-              <h3><a href="{{ post.url | relative_url}}">{{ post.title }}</a></h3>
-              {% if post.subtitle %}
-                <h4  style="margin-before:0px">{{post.subtitle}}</h4>
-              {% endif %}
+              <h3><a href="{{ post.url | relative_url}}">{{ post.title }}{% if post.subtitle %} - {{post.subtitle}}{% endif %}</a></h3>
+              
               {{ post.excerpt }}
           {% endfor %}
-
 
           {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="button">
