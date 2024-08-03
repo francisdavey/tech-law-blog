@@ -25,7 +25,6 @@ header {
   padding-top: 40px;
   padding-bottom: 40px;
   font-family: Georgia, serif;
-  background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
   border-bottom: solid 1px #275da1;
 }
 
@@ -208,14 +207,7 @@ form {
   font-family: Georgia, serif;
   font-size: 22px;
   font-weight: bold;
-  color: #474747;
-  text-indent: 4px;
-}
-#main-content h2:before {
-  padding-right: 0.3em;
-  margin-left: -1.5em;
-  content: "//";
-  color: #9ddcff;
+  color: rgb(204,0,0);
 }
 
 #main-content h3 {
