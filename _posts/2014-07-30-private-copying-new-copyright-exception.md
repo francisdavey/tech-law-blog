@@ -2,8 +2,9 @@
 layout: post
 title: Private copying
 subtitle: a new copyright exception in the UK
-date: 30 July 2014
+date: 2014-07-30 17:05
 published: true
+tags: copyright, copyright exception, private copying
 ---
 
 Hooray! We (in the UK) now have a "private copy" exception to copyright. About time too. Until recently, many forms of private copying were infringements of copyright. In particular format shifting such as copying music from your old CD's and DVD's onto your phone or making a "mix tape" for your own use were infringements of copyright and, if you believe some of the rhetoric of the music industry, morally equivalent to theft.
