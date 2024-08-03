@@ -33,21 +33,11 @@
         <aside id="sidebar">
           <h2>Latest posts</h2>
           {% for post in site.posts limit:12 %}
+              <p>{{ post.date | date: %A %d %M %Y}}</p>
               <h3><a href="{{ post.url | relative_url}}">{{ post.title }}{% if post.subtitle %} - {{post.subtitle}}{% endif %}</a></h3>
               
               {{ post.excerpt }}
           {% endfor %}
-
-          {% if site.show_downloads %}
-            <a href="{{ site.github.zip_url }}" class="button">
-              <small>Download</small>
-              .zip file
-            </a>
-            <a href="{{ site.github.tar_url }}" class="button">
-              <small>Download</small>
-              .tar.gz file
-            </a>
-          {% endif %}
 
           {% if site.github.is_project_page %}
             <p class="repo-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
