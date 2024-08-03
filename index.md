@@ -1,7 +1,6 @@
 ---
 title: Welcome page
 layout: default
-permalink: /:year/:month/:title:output_ext
 ---
 
 {% for post in site.posts %}
