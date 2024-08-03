@@ -211,7 +211,7 @@ form {
   color: rgb(190,190,190);
 }
 
-#post-title h2 {
+h2#post-title {
   color: rgb(204, 0, 0);
 }
 
@@ -487,7 +487,7 @@ aside#sidebar h4:before {
   content: "";
 }
 
-#longdate {
+span#longdate {
   font-weight: 50;
   color: rgb(90, 90, 90);
 }
