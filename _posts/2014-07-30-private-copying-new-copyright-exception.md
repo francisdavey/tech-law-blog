@@ -68,7 +68,7 @@ _But wait_ there is something a little odd here. Section 28B(6) says "Copyright 
 Could my "private use" include lending copies - on a temporary basis only - to friends? There is certainly material in s28B for such an argument. Whether it would run in court is another matter.
 
 Restrictions by the copyright owner
-===================================
+--------
 
 One point that (bafflingly) appears to have upset a number of politicians is the new 28B(10) which blocks copyright owners from preventing private copying by contract. Clearly without such a clause it would be routine to add a provision that private copying was in breach of contract and we might as well not have bothered.
 
@@ -81,14 +81,14 @@ This has always seemed to me a rather weak remedy since the Secretary of State i
 Rather than make private copying another "permitted act" and thus apply the existing mechanism to it, the regulations will create a new s296ZEA. The main difference from 296ZE appears to be that it applies not only when the making of personal copies is prevented, but also when there is a technological restriction that restricts the number of personal copies which may be made. Whether anyone complains to the Secretary of State remains to be seen, please let me know if you do.
 
 Legacy copies
-=============
+--------
 
 If you made a copy in the past that would have been a "personal copy" if the new law had been in force back then - for example it would have to have been made from your "own copy" and been for individual private use - then that copy is now a personal copy.
 
 Those old mix tapes that people made will become (on 1st October) "personal copies" and so may be lawfully backed up etc provided of course the mix tape was made from their owners "own copy" etc. Oddly the making of the copy (in the past) is still an infringement and so a copyright owner could, in principle, sue you for making private copies in the past, but nothing can be done about your use or possession of them now.
 
 What about compensation?
-========================
+--------
 
 One objection to these regulations raised by some rights owners is that there should be provision for them to receive some form of compensation for the private copying.
 
