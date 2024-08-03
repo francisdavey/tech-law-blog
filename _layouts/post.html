@@ -7,4 +7,5 @@ layout: default
 
 {{ content }}
 
-<p>POSTED BY {{ page.author | upcase }}</p>
+<p>POSTED BY {{ page.author | upcase }} at {{ page.date | date: "%H:%M" }}</p>
+<p>LABELS: {% for tag in page.tags%}{{ tag }}{% endfor %}</p>
