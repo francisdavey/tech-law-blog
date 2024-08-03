@@ -11,7 +11,7 @@ Hooray! We (in the UK) now have a "private copy" exception to copyright. About t
 By contrast, almost everyone seemed both to engage in private copying and to think it was OK. Indeed a recent survey I conducted suggests that the vast majority of people think that format shifting is OK (a 95% credible interval of 89 - 93% of the population). So it is very surprising that the law continued to turn its face against something subject to such overwhelming approval.
 
 Analysis
-========
+--------
 
 The new law comes in the form of the Copyright and Rights in Performances (Personal Copies for Private Use) Regulations 2014, which is as yet only [available in draft](http://www.legislation.gov.uk/ukdsi/2014/9780111116036). It will come into force on 1st October and add a new section 28B to the [Copyright, Designs and Patents Act 1988](http://www.legislation.gov.uk/ukpga/1988/48).
 
