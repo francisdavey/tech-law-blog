@@ -1,2 +1,10 @@
 title: Francis Davey
 description: My personal legal blog
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      author: "Francis Davey"
