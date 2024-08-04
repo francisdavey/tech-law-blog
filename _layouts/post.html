@@ -2,8 +2,6 @@
 layout: default
 ---
 
-{% include welcomments/comments.html website_id = "XJgYEV6Vr2mTyVxVbhDMWKcac" %}
-
 <span class="longdate">{{ page.date | date: "%A %e %B %Y" }}</span>
 <h2 class="post-title"><a href="{{ page.url }}">{{ page.title }}{% if page.subtitle %} - {{page.subtitle}}{% endif %}</a></h2>
 
@@ -11,3 +9,5 @@ layout: default
 
 <p>POSTED BY {{ page.author | upcase }} at {{ page.date | date: "%H:%M" }}</p>
 <p>LABELS: {% for tag in page.tags %}{{ tag }}{% endfor %}</p>
+
+{% include welcomments/comments.html website_id = "XJgYEV6Vr2mTyVxVbhDMWKcac" %}
